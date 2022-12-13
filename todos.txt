@@ -1,3 +1,2 @@
 Play A Game
-Learn Python
 Sing a song
